@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛で溢れている",
+  "base_artist": "カレン from BEST FRIENDS！",
+  "createdAt": "2025-12-17T19:57:27.069712Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛で溢れている",
+      "artist": "カレン from BEST FRIENDS!",
+      "has_synced": false,
+      "path": "select/pl_01_愛で溢れている_カレン_from_BEST_FRIENDS!.txt"
+    }
+  ]
+}
